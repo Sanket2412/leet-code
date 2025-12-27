@@ -1,5 +1,5 @@
 
-// First Version of Add two numbers
+// First Version of Add two numbers with Array
 var getReminderAndQuotient=function(value)
 {
     let rem=value % 10;
