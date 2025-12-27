@@ -1,0 +1,20 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "description": "This repo will contain all the leet-code resolved problems.",
+  "homepage": "https://github.com/Sanket2412/leet-code#readme",
+  "bugs": {
+    "url": "https://github.com/Sanket2412/leet-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanket2412/leet-code.git"
+  },
+  "license": "ISC",
+  "author": "Sanket Khardekar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
